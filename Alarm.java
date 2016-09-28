@@ -11,6 +11,7 @@ import android.os.Vibrator;
 
 /**
  * Created by Cristian Xool on 01/06/2016.
+ * Modificion.
  */
 public class Alarm extends IntentService {
 
