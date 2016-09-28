@@ -7,7 +7,7 @@ import android.util.DisplayMetrics;
 /**
  * Created by Cristian Xool on 20/06/2016.
  */
-public class InformerApp extends Activity {
+public class  InformerApp extends Activity {
 
     @Override
     public void onCreate(Bundle savedInstanceState){
